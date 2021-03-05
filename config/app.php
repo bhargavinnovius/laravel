@@ -56,6 +56,10 @@ return [
 
     'asset_url' => env('ASSET_URL', null),
 
+    'storage_path' => 'http://localhost/aziksha-laravel/',
+
+    
+
     /*
     |--------------------------------------------------------------------------
     | Application Timezone

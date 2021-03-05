@@ -31,11 +31,7 @@
 
 {{ __('You are logged in!') }}
 <div class="bs-example">
-	<p><strong>Note:</strong> By default toasts will automatically hide if you do not set autohide to false.</p>
-	<button type="button" class="btn btn-primary show-toast">Show Toast</button>
-
     <div style="position: relative; min-height: 300px;">
-
     <div class="toast" id="myToast" style="position: absolute; top: 0; right: 0;">
         <div class="toast-header">
             <strong class="mr-auto"><i class="fa fa-grav"></i>Raj Technologies</strong>

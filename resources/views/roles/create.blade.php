@@ -35,5 +35,5 @@
 {!! Form::close() !!}
 
 
-<p class="text-center text-primary"><small>Tutorial by http://rajtechnologies.com</small></p>
+
 @endsection

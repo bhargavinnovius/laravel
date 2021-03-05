@@ -5,7 +5,7 @@
 
     <div class="text-center mb-4">
         <a href="{{ url('/') }}">
-        <img class="mb-4" src="http://www.rajtechnologies.com/images/raj-technologies-logo-top-panel.jpg" alt="" width="72" height="72">
+        <img class="mb-4" src="{{ url('assets/images/logo.png') }}" alt="" width="72" height="72">
         </a>
         <h1 class="h3 mb-3 font-weight-normal">{{ __('Login') }}</h1>
     </div>
